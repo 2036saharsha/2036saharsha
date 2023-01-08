@@ -1,6 +1,7 @@
+![MasterHead](https://drive.google.com/file/d/1QXmFkz3touB9QAqLOIAfBHp2jkD3lgFC/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Saharsha Tiwari</h1>
 <h3 align="center">A Student at Howard University majoring in Computer Science. My interests hold in quantifying things and predicting outcomes.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2036saharsha&label=Profile%20views&color=0e75b6&style=flat" alt="2036saharsha" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning**
