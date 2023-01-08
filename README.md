@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1QXmFkz3touB9QAqLOIAfBHp2jkD3lgFC/view?usp=sharing)
+
 <h1 align="center">Hi 👋, I'm Saharsha Tiwari</h1>
 <h3 align="center">A Student at Howard University majoring in Computer Science. My interests hold in quantifying things and predicting outcomes.</h3>
 <img align="right" alt="Coding" width="400" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif">
