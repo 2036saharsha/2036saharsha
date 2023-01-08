@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Saharsha Tiwari</h1>
+<h3 align="center">A Student at Howard University majoring in Computer Science. My interests hold in quantifying things and predicting outcomes.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2036saharsha&label=Profile%20views&color=0e75b6&style=flat" alt="2036saharsha" /> </p>
+
+- 🔭 I’m currently working on **Machine Learning**
+
+- 🌱 I’m currently learning **NodeJs, TensorFlow.**
+
+- 👨‍💻 All of my projects are available at [https://saharshatiwari.com.np/](https://saharshatiwari.com.np/)
+
+- 📫 How to reach me **saharsha.tiwari@bison.howard.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2036saharsha&show_icons=true&locale=en&layout=compact" alt="2036saharsha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2036saharsha&show_icons=true&locale=en" alt="2036saharsha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2036saharsha&" alt="2036saharsha" /></p>
