@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NodeJs, TensorFlow.**
 
-- 👨‍💻 All of my projects are available at [https://saharshatiwari.com.np/](https://saharshatiwari.com.np/)
+- 👨‍💻 All of my projects are available at [https://saharshatiwari.netlify.app/](https://saharshatiwari.netlify.app/)
 
 - 📫 How to reach me **saharsha.tiwari@bison.howard.edu**
 
