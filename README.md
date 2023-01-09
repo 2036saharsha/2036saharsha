@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2036saharsha&label=Profile%20views&color=0e75b6&style=flat" alt="2036saharsha" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning Project**
 
 - 🌱 I’m currently learning **NodeJs, TensorFlow.**
 
